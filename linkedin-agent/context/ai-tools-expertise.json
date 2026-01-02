@@ -1,0 +1,124 @@
+{
+  "primary_tools": {
+    "claude": {
+      "usage": ["Rédaction", "Code", "Automatisation", "Prompting avancé"],
+      "specific_features": ["Claude Code CLI", "API", "Artifacts", "Projects"],
+      "expertise_level": "Avancé - utilisation quotidienne",
+      "use_cases": [
+        "Génération de composants Figma",
+        "Automatisation de workflows design",
+        "Rédaction de contenu",
+        "Prototypage rapide"
+      ]
+    },
+
+    "automation": {
+      "tools": ["Make.com", "n8n"],
+      "expertise_level": "Intermédiaire à avancé",
+      "use_cases": [
+        "Workflows design automatisés",
+        "Intégrations Notion",
+        "Processing newsletters",
+        "Pipelines de création de contenu"
+      ],
+      "common_integrations": ["Notion", "Figma", "Claude API", "Airtable"]
+    },
+
+    "design_ai": {
+      "tools": ["Figma plugins IA", "Design to code tools"],
+      "expertise_level": "Intermédiaire",
+      "applications": [
+        "Prototypage rapide",
+        "Design systems",
+        "Code generation",
+        "Asset creation"
+      ]
+    },
+
+    "superclaude": {
+      "description": "Framework custom pour optimiser l'utilisation de Claude",
+      "expertise_level": "Créateur/Expert",
+      "applications": [
+        "Workflows personnalisés",
+        "Agents spécialisés",
+        "Automatisations avancées"
+      ]
+    }
+  },
+
+  "teaching_approach": {
+    "level": "Débutant à intermédiaire",
+    "method": "Learning by doing, pas théorique",
+    "show_work": "Toujours montrer le process, pas juste le résultat",
+    "accessibility": "Éviter le jargon technique inutile",
+    "concrete_examples": "Toujours donner des cas d'usage réels"
+  },
+
+  "content_categories": {
+    "tutorials": {
+      "format": "Step-by-step avec captures",
+      "level": "Accessible aux débutants",
+      "always_include": "Temps nécessaire + prérequis"
+    },
+
+    "tips_tricks": {
+      "format": "Conseil actionnable immédiat",
+      "focus": "Gain de temps / amélioration qualité",
+      "always_include": "Exemple concret d'utilisation"
+    },
+
+    "project_reviews": {
+      "format": "Storytelling avec apprentissages",
+      "transparency": "Montrer succès ET échecs",
+      "always_include": "Ce qui est réutilisable par d'autres"
+    },
+
+    "tool_discoveries": {
+      "format": "Présentation + use case",
+      "focus": "Pourquoi c'est utile + comment l'utiliser",
+      "always_include": "Limites de l'outil"
+    }
+  },
+
+  "common_workflows": {
+    "design_to_prototype": [
+      "Sketch initial manuel ou IA",
+      "Figma pour structure",
+      "Claude pour générer composants",
+      "Itération avec feedback IA"
+    ],
+
+    "content_creation": [
+      "Idéation avec Claude",
+      "Structuration du contenu",
+      "Génération visuel IA",
+      "Révision et personnalisation"
+    ],
+
+    "automation_setup": [
+      "Identifier tâche répétitive",
+      "Designer le workflow dans Make/n8n",
+      "Intégrer Claude API si nécessaire",
+      "Tester et ajuster"
+    ]
+  },
+
+  "terminology_preferences": {
+    "use": [
+      "IA" (pas "intelligence artificielle"),
+      "Workflow" (pas "pipeline"),
+      "Automatisation" (pas "automation"),
+      "Prompt" (terme accepté)",
+      "Outil" (pas "tool"),
+      "Conseil" ou "tip" (les deux OK)
+    ],
+
+    "explain_when_used": [
+      "API",
+      "Token",
+      "Fine-tuning",
+      "Embedding",
+      "RAG"
+    ]
+  }
+}

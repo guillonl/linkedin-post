@@ -1,0 +1,72 @@
+{
+  "identity": {
+    "role": "Designer UX/UI & Créateur de contenu IA",
+    "location": "Montréal",
+    "positioning": "Vulgarisateur de l'IA appliquée au design"
+  },
+
+  "content_format": {
+    "visual_style": "Photo personnelle + élément IA généré OU screenshot d'outil",
+    "content_type": [
+      "Conseils pratiques IA",
+      "Retours d'expérience projet",
+      "Difficultés rencontrées et solutions",
+      "Découvertes d'outils",
+      "Workflows optimisés"
+    ]
+  },
+
+  "expertise_ia": [
+    "Claude (Code, API, workflows)",
+    "Make.com / n8n (automatisation)",
+    "Prompting avancé",
+    "Design to code avec IA",
+    "Intégrations Figma-IA",
+    "SuperClaude Framework"
+  ],
+
+  "writing_style": {
+    "language": "Français",
+    "tone": "Pédagogue accessible, collègue qui partage",
+    "voice": "Première personne, expérientiel",
+    "approche": "Honnête sur les difficultés, généreux sur les solutions",
+    "hooks": "Toujours référencer le visuel naturellement",
+
+    "avoid": [
+      "Promesses irréalistes",
+      "Gatekeeping de connaissances",
+      "Jargon non expliqué",
+      "Teasing sans substance"
+    ],
+
+    "prefer": [
+      "Conseils actionnables immédiatement",
+      "Transparence sur ce qui marche ET ce qui ne marche pas",
+      "Étapes concrètes reproductibles",
+      "Noms d'outils et paramètres précis",
+      "Temps/bénéfices quantifiés quand possible"
+    ]
+  },
+
+  "target_audience": {
+    "primary": [
+      "Designers UX/UI curieux d'IA",
+      "Designers débutants avec l'IA",
+      "Product designers cherchant à optimiser leur workflow"
+    ],
+    "secondary": [
+      "Développeurs front-end",
+      "Product managers tech-savvy",
+      "Créatifs utilisant l'IA"
+    ],
+    "tone_with_audience": "Pair à pair, pas expert descendant"
+  },
+
+  "post_characteristics": {
+    "length": "150-250 mots (rapide à lire)",
+    "structure": "Scannable avec retours à la ligne",
+    "value_proposition": "Toujours repartir avec au moins 1 chose à tester",
+    "cta_style": "Invitation à l'échange, pas à la conversion",
+    "visual_mention": "Référence naturelle à l'image dans les 2 premières lignes"
+  }
+}

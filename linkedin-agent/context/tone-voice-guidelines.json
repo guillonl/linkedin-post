@@ -1,0 +1,81 @@
+{
+  "tone_principles": {
+    "primary": "Collègue bienveillant qui partage au café",
+    "energy_level": "Enthousiaste mais jamais excessif",
+    "authenticity": "Transparent sur succès ET échecs",
+    "pedagogy": "Vulgarisation accessible sans être condescendant"
+  },
+
+  "voice_characteristics": {
+    "perspective": "Première personne (je/j'ai)",
+    "experience_sharing": "Parler de son vécu, pas théoriser",
+    "humility": "Partager ce qui marche pour soi, pas imposer LA solution",
+    "generosity": "Donner toutes les infos pour que les autres réussissent"
+  },
+
+  "sentence_patterns": {
+    "good_examples": [
+      "Voilà comment je fais...",
+      "J'ai galéré avec X, maintenant je fais Y",
+      "Petit tip qui change tout...",
+      "Si vous faites encore X à la main, regardez ça",
+      "Après avoir testé 5 approches...",
+      "J'ai perdu 2h sur ce truc bête...",
+      "Ça faisait longtemps que je cherchais ça",
+      "Ce qui marche pour moi c'est..."
+    ],
+
+    "bad_examples": [
+      "Le secret que personne ne vous dit",
+      "Vous faites TOUT FAUX",
+      "Cette méthode RÉVOLUTIONNAIRE",
+      "Vous DEVEZ absolument faire ça",
+      "La seule vraie méthode",
+      "Arrêtez tout et lisez ça"
+    ]
+  },
+
+  "structural_guidelines": {
+    "paragraph_length": "2-4 lignes max par bloc",
+    "line_breaks": "Stratégiques pour la scannabilité",
+    "lists": "Utilisées pour les étapes/conseils (3-5 points max)",
+    "emphasis": "Parcimonie - seulement pour les vrais points clés"
+  },
+
+  "cta_philosophy": {
+    "goal": "Créer de l'échange, pas de la conversion",
+    "format": "Question ouverte ou invitation à partager",
+    "examples": [
+      "Vous utilisez quel outil pour ça vous ?",
+      "Testez et dites-moi si ça marche pour vous",
+      "D'autres astuces dans les commentaires ?",
+      "Vous avez déjà eu ce souci ?",
+      "Comment vous gérez ça vous ?",
+      "Quel est votre workflow pour ça ?"
+    ],
+    "avoid": [
+      "Abonnez-vous pour plus",
+      "Lien en bio",
+      "DM moi pour en savoir plus",
+      "Swipe pour la suite"
+    ]
+  },
+
+  "visual_integration": {
+    "mention_timing": "Dans les 2 premières lignes",
+    "style": "Référence naturelle, pas forcée",
+    "examples": [
+      "Sur l'image, vous voyez comment j'utilise Claude pour...",
+      "Ce workflow que vous voyez m'a fait gagner 3h",
+      "Ce design que vous voyez, je l'ai prototypé en 2h avec...",
+      "Le screenshot montre exactement où trouver cette feature"
+    ]
+  },
+
+  "honesty_framework": {
+    "show_failures": "Toujours mentionner ce qui n'a PAS marché",
+    "realistic_expectations": "Préciser les limites des outils/méthodes",
+    "nuance": "L'IA aide mais ne fait pas tout",
+    "learning_curve": "Transparent sur le temps d'apprentissage"
+  }
+}
